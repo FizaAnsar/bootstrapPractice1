@@ -1,0 +1,28 @@
+
+.navCenter{
+  
+    margin-left: 15%;
+}
+.linksCustom{
+    margin-left: 30px;
+    color:white;
+}
+.navbar{
+    background-color: #b30086;
+}
+.linksCustom:hover{
+  color:  #ffff66;
+}
+.humburger {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='rgba(0, 0, 0, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") !important;
+ }
+.breadcrumb a{ color: #b30086;}
+.carousel-inner img{
+    width: 1200px;
+    height: 400px;
+}
+.contact h1{
+    color: #b30086;
+    text-align: center;
+}
+    
